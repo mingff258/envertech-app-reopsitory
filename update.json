@@ -1,6 +1,13 @@
 {
-    "name": "Sunseed",
-    "versionCode": 2,
-	"versionName": "0.0.1.0002",
-    "url": "https://github.com/mingff258/envertech-app-reopsitory/raw/master/Sunseed.apk"
+	"sunseed": {
+		"versionCode": 2,
+		"versionName": "0.0.1.0002",
+		"url": "https://github.com/mingff258/envertech-app-reopsitory/raw/master/Sunseed.apk"
+	},
+	"sunflower": {
+		"versionCode": 2,
+		"versionName": "0.0.2.0002",
+		"url": "https://github.com/mingff258/envertech-app-reopsitory/raw/master/sunflower.bin"
+		"updateLogUrl": "https://github.com/mingff258/envertech-app-reopsitory/raw/master/update.log"
+	}
 }
